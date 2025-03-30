@@ -1,0 +1,10 @@
+[window]
+
+opacity = 1.0
+
+padding.x = 15
+padding.y = 15
+
+decorations = "Full"
+decorations_theme_variant = "Light" # "Dark"
+
